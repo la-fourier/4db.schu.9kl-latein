@@ -1,6 +1,4 @@
-# Latein
-# Klasse 9
-# 1. Fremdsprache
+# Latein - Klasse 9 - 1. Fremdsprache
 
 | Latein-Zeugs. Mainly Übersetzungen, mal gucken.
 
